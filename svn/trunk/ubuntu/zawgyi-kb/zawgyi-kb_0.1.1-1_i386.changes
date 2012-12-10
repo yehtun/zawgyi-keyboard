@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 08 May 2009 14:42:32 +0200
+Source: zawgyi-kb
+Binary: zawgyi-kb
+Architecture: source all
+Version: 0.1.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: box02 <thebox02@gmail.com>
+Changed-By: box02 <thebox02@gmail.com>
+Description: 
+ zawgyi-kb  - Zawgyi Keyboard for Debian and Ubuntu Linux.
+Changes: 
+ zawgyi-kb (0.1.1-1) unstable; urgency=low
+ .
+   * New Upstream release.
+     update README file,
+     fix Installing error by dpkg,
+     build signing with gpg key.
+Checksums-Sha1: 
+ 3fe952daf0a2a969f5d0e63cbb81a5874e043d1b 1071 zawgyi-kb_0.1.1-1.dsc
+ 409c8a47d6471b555d0da341a9dec02b5acecaeb 673085 zawgyi-kb_0.1.1.orig.tar.gz
+ 155f14f9b5613cf5e1cf79a2afab205d7304ed90 1940 zawgyi-kb_0.1.1-1.diff.gz
+ 3bd8617300db640512c6f6705a19917ecfff8397 674392 zawgyi-kb_0.1.1-1_all.deb
+Checksums-Sha256: 
+ 26967865d2dcff739a3e3d8fb2298c3d4eab7055b0cbd63373eb1f8a04b09b55 1071 zawgyi-kb_0.1.1-1.dsc
+ f6a36523a858b09d4ebfe78ca4a1b219eedb5723ba40140b192be192c6eafa3e 673085 zawgyi-kb_0.1.1.orig.tar.gz
+ 0b1c5525787aa6f55e3fb335d778fd372a05d7b5365be5cbb7b7269df4af0028 1940 zawgyi-kb_0.1.1-1.diff.gz
+ 19752db5be1a1d3cc0ac4cbc896113b46e124f708d97768a08b76436817ff4e1 674392 zawgyi-kb_0.1.1-1_all.deb
+Files: 
+ 0620d820449e589878c1fcfd8c287d6c 1071 X11 optional zawgyi-kb_0.1.1-1.dsc
+ 762820b0db9b45d58c204ac20f114614 673085 X11 optional zawgyi-kb_0.1.1.orig.tar.gz
+ e54e9024e3d004e4d5329e6249de2bd6 1940 X11 optional zawgyi-kb_0.1.1-1.diff.gz
+ bd051a91bc3d6c21c804df3a0f430aee 674392 X11 optional zawgyi-kb_0.1.1-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+
+iEYEARECAAYFAkoELq0ACgkQLtiZ8ADwIKZcRACeJ+8ueyPOUKWlbbAO2y/HJJ5D
+V+cAoK8MrNdmPN7vIMXwU3sNmNy63ztS
+=Jloi
+-----END PGP SIGNATURE-----

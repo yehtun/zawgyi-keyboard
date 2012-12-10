@@ -1,0 +1,13 @@
+Source: zawgyi-kb
+Section: x11
+Priority: optional
+Maintainer: box02 <thebox02@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.0
+Homepage: http://code.google.com/p/zawgyi-keyboard/
+
+Package: zawgyi-kb
+Architecture: all
+Depends: ${shlibs:Depends}
+Description: Zawgyi Keyboard for Ubuntu Linux.
+ This package contains 'zawgyi' font and 'mm' xkeyboard.

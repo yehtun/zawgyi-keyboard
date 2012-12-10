@@ -1,0 +1,14 @@
+Source: zawgyi-kb
+Section: utlis
+Priority: optional
+Maintainer: box02 <thebox02@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.0
+Homepage: http://code.google.com/p/zawgyi-keyboard/
+Vcs-Browser: http://code.google.com/p/zawgyi-keyboard/source/browse/
+
+Package: zawgyi-kb
+Architecture: all
+Description: Zawgyi Keyboard for Debian Linux and Ubuntu Linux.
+ This package contains zawgyi font and keyboard. The Linux users
+ can install easily on their system.

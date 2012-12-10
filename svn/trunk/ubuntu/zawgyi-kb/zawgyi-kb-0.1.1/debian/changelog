@@ -1,0 +1,14 @@
+zawgyi-kb (0.1.1-1) unstable; urgency=low
+
+  * New Upstream release.
+    update README file, 
+    fix Installing error by dpkg,
+    build signing with gpg key.
+
+ -- box02 <thebox02@gmail.com>  Fri, 08 May 2009 14:42:32 +0200
+
+zawgyi-kb (0.0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- box02 <thebox02@gmail.com>  Mon, 04 May 2009 00:40:48 +0200

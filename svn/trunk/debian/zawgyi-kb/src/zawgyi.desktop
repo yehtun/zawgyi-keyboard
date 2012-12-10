@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Zawgyi Keyboard
+GenericName=Zawgyi Keyboard
+Comment=Zawgyi Keyboard Layout
+Categories=System;X-Fedora;
+Exec=evince "/usr/share/zawgyi/zawgyikeyboard.pdf"
+Type=Application
+Icon=/usr/share/pixmaps/zawgyi.png
+StartupNotify=true
+

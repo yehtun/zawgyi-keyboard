@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Thu, 14 May 2009 20:51:02 +0200
+Source: zawgyi-kb
+Binary: zawgyi-kb
+Architecture: source
+Version: 0.1.4-0ubuntu1~ppa1
+Distribution: jaunty
+Urgency: low
+Maintainer: box02 <thebox02@gmail.com>
+Changed-By: box02 <thebox02@gmail.com>
+Description: 
+ zawgyi-kb  - Zawgyi Keyboard for Ubuntu Linux.
+Changes: 
+ zawgyi-kb (0.1.4-0ubuntu1~ppa1) jaunty; urgency=low
+ .
+   * New upstream release
+   * change xkb path to '/usr/share/X11/xkb/symbols/'
+Checksums-Sha1: 
+ 8a89f4f8bdb2ac0f1ec5ac47eadea5f35ff1f00b 1050 zawgyi-kb_0.1.4-0ubuntu1~ppa1.dsc
+ 00811c8924607c8c20bf5addc189d74f472dc4d5 662825 zawgyi-kb_0.1.4.orig.tar.gz
+ 27051d6886432d058ed610cdc4ea656111f37b7a 2001 zawgyi-kb_0.1.4-0ubuntu1~ppa1.diff.gz
+Checksums-Sha256: 
+ da41ce480f4442d9fca4b8afa11003f02ce6c9b97f869c794e013416987a2bb9 1050 zawgyi-kb_0.1.4-0ubuntu1~ppa1.dsc
+ d58e2d9798e5d60a9ba899050152748a494d843e092aae1c4146e98c02c90645 662825 zawgyi-kb_0.1.4.orig.tar.gz
+ 65d666869b48049ba00cc021bd8bfef4b4d31006265851bf6d5744f60b284b56 2001 zawgyi-kb_0.1.4-0ubuntu1~ppa1.diff.gz
+Files: 
+ 4c8d685756983b6c008f830367856fce 1050 x11 optional zawgyi-kb_0.1.4-0ubuntu1~ppa1.dsc
+ 05d723115324d9d86deb98772aeac5ca 662825 x11 optional zawgyi-kb_0.1.4.orig.tar.gz
+ 10b98814c09a1f0cb1cd560a47f0bb3b 2001 x11 optional zawgyi-kb_0.1.4-0ubuntu1~ppa1.diff.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+
+iEYEARECAAYFAkoMatYACgkQLtiZ8ADwIKaOsQCfcVbMtKUqfxzCdRbuoPeJOp2R
+T2oAoKato+ntrXCo5X7eDTiouV8mWOVg
+=agLw
+-----END PGP SIGNATURE-----

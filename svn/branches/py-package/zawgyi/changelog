@@ -1,0 +1,91 @@
+zawgyi-keyboard source script install package
+--------------------------------------------
+v0.3.3
+
+* upgrade new zawgyi font (Zawgyi-One_v4.25_November_6_2009.ttf) by Soe Min
+* mm xkeyboard file modified for zawgyi style by Saturngod
+* import zawgyi_keyboard_2009.pdf for keyboard layout
+* delete zawgyi_keyboard_unicode5.1_style.png
+* delete Zawgyi_Keyboard_Layout_2009_Linux-Unix.pdf
+* make to be able to install on all version of FreeBSD and Linux
+* add wget_SuggestMessage() in module for while wget not installed
+
+ -- box02 <thebox02@gmail.com> $date Sat Nov  7 23:08:17 CET 2009
+ 
+ 
+v0.3.2
+
+* upgrade new zawgyi font (Zawgyi-One_v4.20_August_26_2009.ttf) by Soe Min
+* add error exceptions in zawgyi_keyboard.py
+* fixed offline causes errors
+* add some documentation in module
+* add Zawgyi_Keyboard_Layout_2009_Linux-Unix.pdf
+
+ -- box02 <thebox02@gmail.com> $date Fri Aug 28 01:43:26 CEST 2009
+
+
+v0.3.1
+
+* upgrade new zawgyi font (Zawgyi-One_2009_Aug_25_v4.19.ttf) by Soe Min
+* add showfont() and online_upgrade() in zawgyi_keyboard.py
+* change font_upgrade() to man_upgrade() in zawgyi_keyboard.py
+* mm file for '\' key fixed by kokhy
+
+ -- box02 <thebox02@gmail.com> $date Tue Aug 25 22:48:19 CEST 2009
+
+
+v0.3.0
+
+* upgrade new zawgyi font (Zawgyi-One_2009_Jul_30_rev01.ttf) by Soe Min
+* add zawgyi_keyboard.py module by Phone Htut
+* add new features with python script
+* package can be installed on Linux and FreeBSD platforms
+* easy install, uninstall, font upgrade features
+* using new zawgyi keyboard layout unicode style
+* using `shit+f` for pat sint keys
+* remove all previous *.sh scripts
+
+ -- box02 <thebox02@gmail.com> $date Tue Aug  4 20:40:46 CEST 2009
+
+
+v0.2.1
+
+* upgrade new zawgyi font (Zawgyi-One_2009_Jul_26_rev06.ttf)
+
+ -- box02 <thebox02@gmail.com> $date Sun Jul 26 22:22:07 CEST 2009
+
+
+v0.2.0
+
+* upgrade new zawgyi font (2009 July version)
+* add new zawgyi mm xkeyboard symbols and map
+* update AUTHORS, CREDITS, README and NOTICE
+
+ -- box02 <thebox02@gmail.com> $date Sat Jul 25 20:17:46 CEST 2009
+
+
+v0.1.2
+
+* include new scripts for FreeBSD Gnome Desktop Users
+* add `install_freebsd.sh` and `uninstall_freebsd.sh`
+
+ -- box02 <thebox02@gmail.com> $date Fri Jul 17 12:50:46 CEST 2009
+
+
+v0.1.1 
+
+* The shell script install new version release
+* upgrade install.sh
+* add uninstall.sh file
+* add Documents install
+* upgrade ZawgyiOne20071230.ttf to ZawgyiOne20080210.ttf
+* update README, CREDITS, NOTICE
+
+ -- box02 <thebox02@gmail.com> $date Sun May 24 21:33:06 CEST 2009 
+
+
+v0.1.0
+
+* Initial release as "zawgyi-keyboard-ubuntu904"
+
+ -- box02 <thebox02@gmail.com> $date Sun Apr 25 20:11:41 CEST 2009

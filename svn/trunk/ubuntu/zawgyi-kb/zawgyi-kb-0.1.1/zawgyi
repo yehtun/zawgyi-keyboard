@@ -1,0 +1,3 @@
+?package(zawgyi-keyboard): needs="X11" section="Apps/System"\
+  title="Zawgyi Keyboard" icon="/usr/share/pixmaps/zawgyi.png"\
+  command="/usr/share/zawgyi-kb/zawgyikeyboard.pdf"
